@@ -5,6 +5,11 @@ D 4 pin Crystal Oscillator
 K XTAL crystal oscillator
 $ENDCMP
 #
+$CMP IS61/64
+D ISSI IS61/64, 4Mbit SRAM, 256K x 16 High Speed Asynchronous CMOS Static RAM with ECC
+K SRAM
+$ENDCMP
+#
 $CMP LCD1602
 D LCD Module, 5x8 dots segments, 2x16 blocks
 K lcd module

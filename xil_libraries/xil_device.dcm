@@ -1,3 +1,38 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Crystal_Oscillator_[4_pin]
+D 4 pin Crystal Oscillator
+K XTAL crystal oscillator
+$ENDCMP
+#
+$CMP LCD1602
+D LCD Module, 5x8 dots segments, 2x16 blocks
+K lcd module
+$ENDCMP
+#
+$CMP M25P128
+D 128 Mbit Serial Flash Memory, 50 MHz SPI
+K SPI flash memory
+$ENDCMP
+#
+$CMP MIC5219-BM5
+D Adjustable 500mA-Peak LDO Regulator
+K LDO Regulator
+$ENDCMP
+#
+$CMP MIC5248-1.2BM5
+D 1.2V 150mA CMOS LDO Regulator
+K LDO regulator
+$ENDCMP
+#
+$CMP NCP585-1.2V
+D 1.2V 300mA Tri-Mode CMOS LDO Regulator with Enable
+K LDO regulator
+$ENDCMP
+#
+$CMP WS1228B
+D Intelligent Control LED, integrated light source
+K LED
+$ENDCMP
+#
 #End Doc Library

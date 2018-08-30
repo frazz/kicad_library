@@ -25,6 +25,11 @@ D 1.2V 150mA CMOS LDO Regulator
 K LDO regulator
 $ENDCMP
 #
+$CMP NCP5501-5V
+D 500 mA LDO Voltage Regulator
+K LDO regulator
+$ENDCMP
+#
 $CMP NCP585-1.2V
 D 1.2V 300mA Tri-Mode CMOS LDO Regulator with Enable
 K LDO regulator
